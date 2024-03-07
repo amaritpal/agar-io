@@ -17,7 +17,7 @@ import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-public class HelloApplication extends Application {
+public class UIHome extends Application {
 
     private String playerName = "Player"; // Default player name
     private Color selectedColor = Color.RED; // Default selected color
