@@ -1,4 +1,4 @@
-package com.example.agar_io;
+package com.example._groupb_oop_agario;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
