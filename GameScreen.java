@@ -1,4 +1,5 @@
-package com.example.agar_io;
+package com.example._groupb_oop_agario;
+
 
 import javafx.beans.binding.DoubleBinding;
 import javafx.geometry.Pos;
